@@ -16,6 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".StartPageActivity">
+        </activity>
+        <activity android:name=".WelcomeActivity">
+        </activity>
+        <activity android:name=".AllUsersActivity">
+        </activity>
+        <activity android:name=".SettingsActivity">
+        </activity>
+        <activity android:name=".LoginActivity">
+        </activity>
+        <activity android:name=".RegisterActivity">
+        </activity>
     </application>
 
 </manifest>
